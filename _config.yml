@@ -2,9 +2,9 @@
 title: suweiping123
 email: 1148022602@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  my first blog.
+ my first blog.
 url: "https://suweiping123.github.io/" # the base hostname & protocol for your site
-github_username:  jekyll
+github_username:  suweiping123
 
 # Build settings
 markdown: kramdown
