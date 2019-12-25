@@ -19,7 +19,7 @@ this is translation project.
 
 · [博客 ](https://product.hubspot.com/blog)
 
-**Git****和****GitHub****入门指南（教程）**
+**Git****和**GitHub****入门指南（教程）**
 
 2015年10月1日/[作者MEGHAN NELSON](https://product.hubspot.com/blog/author/meghan-nelson)
 
