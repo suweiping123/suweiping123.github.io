@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About me
+permalink: /about me/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![img](file:///C:\Users\Doris\AppData\Roaming\Tencent\Users\1148022602\QQ\WinTemp\com.tencent.qzone\9adbf52b9b493648785038204a71ee86) 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
